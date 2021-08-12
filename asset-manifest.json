@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tatianadelsoglio/admincitasweb/static/css/main.f1ac062d.chunk.css",
-    "main.js": "/tatianadelsoglio/admincitasweb/static/js/main.4257cfcc.chunk.js",
-    "main.js.map": "/tatianadelsoglio/admincitasweb/static/js/main.4257cfcc.chunk.js.map",
-    "runtime-main.js": "/tatianadelsoglio/admincitasweb/static/js/runtime-main.e29817d6.js",
-    "runtime-main.js.map": "/tatianadelsoglio/admincitasweb/static/js/runtime-main.e29817d6.js.map",
-    "static/js/2.600b2985.chunk.js": "/tatianadelsoglio/admincitasweb/static/js/2.600b2985.chunk.js",
-    "static/js/2.600b2985.chunk.js.map": "/tatianadelsoglio/admincitasweb/static/js/2.600b2985.chunk.js.map",
-    "static/js/3.e619b6bf.chunk.js": "/tatianadelsoglio/admincitasweb/static/js/3.e619b6bf.chunk.js",
-    "static/js/3.e619b6bf.chunk.js.map": "/tatianadelsoglio/admincitasweb/static/js/3.e619b6bf.chunk.js.map",
-    "index.html": "/tatianadelsoglio/admincitasweb/index.html",
-    "static/css/main.f1ac062d.chunk.css.map": "/tatianadelsoglio/admincitasweb/static/css/main.f1ac062d.chunk.css.map",
-    "static/js/2.600b2985.chunk.js.LICENSE.txt": "/tatianadelsoglio/admincitasweb/static/js/2.600b2985.chunk.js.LICENSE.txt"
+    "main.css": "/admincitasweb/static/css/main.f1ac062d.chunk.css",
+    "main.js": "/admincitasweb/static/js/main.4257cfcc.chunk.js",
+    "main.js.map": "/admincitasweb/static/js/main.4257cfcc.chunk.js.map",
+    "runtime-main.js": "/admincitasweb/static/js/runtime-main.79670bf5.js",
+    "runtime-main.js.map": "/admincitasweb/static/js/runtime-main.79670bf5.js.map",
+    "static/js/2.600b2985.chunk.js": "/admincitasweb/static/js/2.600b2985.chunk.js",
+    "static/js/2.600b2985.chunk.js.map": "/admincitasweb/static/js/2.600b2985.chunk.js.map",
+    "static/js/3.e619b6bf.chunk.js": "/admincitasweb/static/js/3.e619b6bf.chunk.js",
+    "static/js/3.e619b6bf.chunk.js.map": "/admincitasweb/static/js/3.e619b6bf.chunk.js.map",
+    "index.html": "/admincitasweb/index.html",
+    "static/css/main.f1ac062d.chunk.css.map": "/admincitasweb/static/css/main.f1ac062d.chunk.css.map",
+    "static/js/2.600b2985.chunk.js.LICENSE.txt": "/admincitasweb/static/js/2.600b2985.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e29817d6.js",
+    "static/js/runtime-main.79670bf5.js",
     "static/js/2.600b2985.chunk.js",
     "static/css/main.f1ac062d.chunk.css",
     "static/js/main.4257cfcc.chunk.js"
